@@ -1,0 +1,118 @@
+/* Here goes your CSS */
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #053A6A;
+    font-size: 20px;
+    line-height: 1.6em;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+    font-weight: thin;
+    color: #053A6A;
+    font-size: 15px;
+    line-height: 1.6em;
+    margin-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #A9A9A9 ;
+    font-size: 15px;
+    line-height: 1.6em;
+    text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
+text-align: justify;
+}
+.container {
+    width: 700px;
+    margin: 30px auto;
+}
+.list-inline li i {
+    font-size: 25px;
+}
+
+body {
+    background: #053A6A;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+#img-profile {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #cccccc;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+.list-inline {
+    padding-left: 0;
+}
+
+.btn-red {
+    background-color: #053A6A;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 15px;
+}
+
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+}
+¨
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+text-decoration: none;
+}
+
+.card p {
+  text-align: center;
+}
+
+
+
+.card a {
+  text-decoration: none;
+}
+
+a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+#movies {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+#albums img{
+  width: 200px;
+  margin:15px;
+}
